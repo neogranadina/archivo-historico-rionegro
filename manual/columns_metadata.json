@@ -1,0 +1,18 @@
+[{
+"identificador": "ca_objects.idno",
+"título": "ca_objects.preferred_labels",
+"medio_y_extensión": "soporte",
+"folio_inicial_del_documento": "folio_inicial",
+"folio_final_del_documento": "folio_final",
+"alcance_y_contenido": "ca_objects.scopecontent",
+"condiciones_de_acceso": "ca_objects.accessrestrict",
+"condiciones_de_reproducción": "ca_objects.reproduction",
+"caracterísitcas_físicas": "ca_objects.note",
+"ubicación_de_los_originales": "ca_objects.originalsloc",
+"punto_de_acceso": "ca_objects.arrangement",
+"fuentes": "ca_objects.otherfindingaid",
+"fecha_inicial": "fecha_inicial",
+"fecha_final": "fecha_final",
+"actores": "ca_entities_inst",
+"actores.1": "ca_entities"
+}]

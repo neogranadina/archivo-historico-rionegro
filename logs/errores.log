@@ -1,0 +1,33 @@
+2023-07-17 22:55:31,386:__main__:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 22:55:31,386:__main__:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 22:55:32,805:__main__:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:00:11,738:__main__:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:00:11,738:__main__:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:00:13,182:__main__:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:04:24,571:__main__:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:04:24,572:__main__:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:04:26,451:__main__:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:05:44,166:__main__:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:05:44,166:__main__:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:05:45,714:__main__:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:19:02,592:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:19:02,592:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:19:04,038:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:22:51,777:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:22:51,777:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:22:53,280:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:27:21,322:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:27:21,323:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:27:22,784:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:31:30,282:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:31:30,282:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:31:31,785:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:38:02,290:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:38:02,290:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:38:03,737:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:39:03,482:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:39:03,482:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:39:05,159:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-17 23:43:22,886:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-17 23:43:22,886:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-17 23:43:24,373:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month

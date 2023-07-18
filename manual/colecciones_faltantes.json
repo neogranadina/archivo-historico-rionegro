@@ -1,0 +1,135 @@
+[
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.NOT",
+        "ca_collections.preferred_labels_fondo": "Notarial",
+        "ca_collections.idno_subfondo": "CO.AHR.NOT.T228",
+        "ca_collections.preferred_labels_subfondo": "Caja 228",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Notarial, Caja 228",
+        "ca_collections.preferred_labels": "Carpeta 001",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Notarial, Caja 228, Carpeta 001",
+        "ca_collections.idno": "CO.AHR.NOT.T228.T001"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.NOT",
+        "ca_collections.preferred_labels_fondo": "Notarial",
+        "ca_collections.idno_subfondo": "CO.AHR.NOT.T228",
+        "ca_collections.preferred_labels_subfondo": "Caja 228",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Notarial, Caja 228",
+        "ca_collections.preferred_labels": "Carpeta 002",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Notarial, Caja 228, Carpeta 002",
+        "ca_collections.idno": "CO.AHR.NOT.T228.T002"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.JUD",
+        "ca_collections.preferred_labels_fondo": "Judicial",
+        "ca_collections.idno_subfondo": "CO.AHR.JUD.T1066",
+        "ca_collections.preferred_labels_subfondo": "Caja 1066",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Judicial, Caja 1066",
+        "ca_collections.preferred_labels": "Carpeta 001",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 1066, Carpeta 001",
+        "ca_collections.idno": "CO.AHR.JUD.T1066.T001"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.JUD",
+        "ca_collections.preferred_labels_fondo": "Judicial",
+        "ca_collections.idno_subfondo": "CO.AHR.JUD.T1066",
+        "ca_collections.preferred_labels_subfondo": "Caja 1066",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Judicial, Caja 1066",
+        "ca_collections.preferred_labels": "Carpeta 002",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 1066, Carpeta 002",
+        "ca_collections.idno": "CO.AHR.JUD.T1066.T002"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.JUD",
+        "ca_collections.preferred_labels_fondo": "Judicial",
+        "ca_collections.idno_subfondo": "CO.AHR.JUD.T1066",
+        "ca_collections.preferred_labels_subfondo": "Caja 1066",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Judicial, Caja 1066",
+        "ca_collections.preferred_labels": "Carpeta 003",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 1066, Carpeta 003",
+        "ca_collections.idno": "CO.AHR.JUD.T1066.T003"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.JUD",
+        "ca_collections.preferred_labels_fondo": "Judicial",
+        "ca_collections.idno_subfondo": "CO.AHR.JUD.T1066",
+        "ca_collections.preferred_labels_subfondo": "Caja 1066",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Judicial, Caja 1066",
+        "ca_collections.preferred_labels": "Carpeta 004",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 1066, Carpeta 004",
+        "ca_collections.idno": "CO.AHR.JUD.T1066.T004"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.JUD",
+        "ca_collections.preferred_labels_fondo": "Judicial",
+        "ca_collections.idno_subfondo": "CO.AHR.JUD.T1066",
+        "ca_collections.preferred_labels_subfondo": "Caja 1066",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Judicial, Caja 1066",
+        "ca_collections.preferred_labels": "Carpeta 005",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 1066, Carpeta 005",
+        "ca_collections.idno": "CO.AHR.JUD.T1066.T005"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.CON",
+        "ca_collections.preferred_labels_fondo": "Concejo",
+        "ca_collections.idno_subfondo": "CO.AHR.CON.T081",
+        "ca_collections.preferred_labels_subfondo": "Caja 081",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Concejo, Caja 081",
+        "ca_collections.preferred_labels": "Carpeta 006",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Judicial, Caja 081, Carpeta 006",
+        "ca_collections.idno": "CO.AHR.CON.T081.T006"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.GOB",
+        "ca_collections.preferred_labels_fondo": "Gobierno",
+        "ca_collections.idno_subfondo": "CO.AHR.GOB.T260",
+        "ca_collections.preferred_labels_subfondo": "Caja 260",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Gobierno, Caja 260",
+        "ca_collections.preferred_labels": "Carpeta 001",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Gobierno, Caja 260, Carpeta 001",
+        "ca_collections.idno": "CO.AHR.GOB.T260.T001"
+    },
+    {
+        "ca_collections.idno_institucion": "CO.AHR",
+        "ca_collections.preferred_labels_institucion": "Archivo Histórico de Rionegro",
+        "ca_collections.idno_fondo": "CO.AHR.GOB",
+        "ca_collections.preferred_labels_fondo": "Gobierno",
+        "ca_collections.idno_subfondo": "CO.AHR.GOB.T269",
+        "ca_collections.preferred_labels_subfondo": "Caja 269",
+        "collection_type_subfondo": "caja",
+        "ca_collections.arrangement_subfondo": "Archivo Histórico Rionegro, Gobierno, Caja 269",
+        "ca_collections.preferred_labels": "Carpeta 006",
+        "ca_collections.arrangement": "Archivo Histórico Rionegro, Gobierno, Caja 269, Carpeta 006",
+        "ca_collections.idno": "CO.AHR.GOB.T269.T006"
+    }
+
+
+
+]
