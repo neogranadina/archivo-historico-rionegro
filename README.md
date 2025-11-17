@@ -12,9 +12,9 @@ Este repositorio contiene únicamente los scripts de procesamiento y documentaci
 
 Los archivos de datos procesados están disponibles en Zenodo:
 
-**[Dataset en Zenodo: DOI pendiente]**
+**[Dataset en Zenodo](https://doi.org/10.5281/zenodo.17626109)**
 
-<!-- Reemplazar con el DOI real una vez publicado en Zenodo -->
+DOI: `10.5281/zenodo.17626109`
 
 ### Datos de origen
 
