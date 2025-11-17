@@ -6,8 +6,8 @@
 
 import pandas as pd
 
-colecciones = pd.read_excel("data/rionegro_fondos.xlsx")
-metadatos = pd.read_excel("data/rionegro_metadata.xlsx", skiprows=1)
+colecciones = pd.read_excel("data/xlsx/rionegro_fondos.xlsx")
+metadatos = pd.read_excel("data/xlsx/rionegro_metadata.xlsx", skiprows=1)
 
 # remove empty columns
 colecciones = colecciones.dropna(axis=1, how="all")
@@ -28,5 +28,5 @@ metadatos.columns = metadatos.columns.str.replace(" ", "_").str.lower()
 colecciones['nivel_de_descripción'] = colecciones['nivel_de_descripción'].str.strip().str.split(" ").str[0]
 
 # Convertir los archivos de Excel en CSV
-colecciones.to_csv("data/rionegro_fondos.csv", index=False)
-metadatos.to_csv("data/rionegro_metadata.csv", index=False)
+colecciones.to_csv("data/csv/rionegro_fondos.csv", index=False)
+metadatos.to_csv("data/csv/rionegro_metadata.csv", index=False)

@@ -275,7 +275,7 @@ class Metadatos:
 
 
 if __name__ == '__main__':
-    colecciones = pd.read_csv("data/rionegro_fondos.csv")
+    colecciones = pd.read_csv("data/csv/rionegro_fondos.csv")
 
     dtypes = {
         'título': str,
@@ -286,8 +286,8 @@ if __name__ == '__main__':
         'scriptofdescription': str
     }
 
-    documentos = pd.read_csv("data/rionegro_metadata.csv", dtype=dtypes)
+    documentos = pd.read_csv("data/csv/rionegro_metadata.csv", dtype=dtypes)
 
     m = Metadatos(colecciones, documentos)
     t = m.prepare_data()
-    t.to_csv("data/rionegro_metadata_prepared.csv", index=False)
+    t.to_csv("data/csv/rionegro_metadata_prepared.csv", index=False)

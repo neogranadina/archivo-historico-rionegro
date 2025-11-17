@@ -10,7 +10,7 @@ Documentos: [rionegro_importar](https://docs.google.com/spreadsheets/d/10Gq7669j
 
 ## Metodología
 
-1. Descargados los archivos de origen en formato `.xlsx`, se guardan en el directorio `data` con los nombres `data/rionegro_fondos.xlsx` y `data/rionegro_metadata.xlsx`.
-2. Se ejecuta el script `prepare.py` para generar los archivos `data/rionegro_fondos.csv` y `data/rionegro_metadata.csv`.
-3. Mediante el módulo `colecciones.py` se procesa la información de los fondos, se limpia la información, se construye la estructura de colecciones, se generan los identificadores de cada colección, se ajusta el nombre de las columnas a la estructura de Collective Access y se procesa la información relacionada con la cantidad de folios y el rango de fechas. Se genera un archivo `data/rionegro_collections.csv` por seguridad y el archivo `data/rionegro_collections_columns.txt` para facilitar la referencia de las columnas.
+1. Descargados los archivos de origen en formato `.xlsx`, se guardan en el directorio `data` con los nombres `data/xlsx/rionegro_fondos.xlsx` y `data/xlsx/rionegro_metadata.xlsx`.
+2. Se ejecuta el script `prepare.py` para generar los archivos `data/csv/rionegro_fondos.csv` y `data/csv/rionegro_metadata.csv`.
+3. Mediante el módulo `colecciones.py` se procesa la información de los fondos, se limpia la información, se construye la estructura de colecciones, se generan los identificadores de cada colección, se ajusta el nombre de las columnas a la estructura de Collective Access y se procesa la información relacionada con la cantidad de folios y el rango de fechas. Se genera un archivo `data/csv/rionegro_collections.csv` por seguridad y el archivo `data/csv/rionegro_collections_columns.txt` para facilitar la referencia de las columnas.
 

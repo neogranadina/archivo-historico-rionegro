@@ -3,7 +3,7 @@ from metadatos import Metadatos
 import os
 import sys
 
-colecciones = pd.read_csv("data/rionegro_fondos.csv")
+colecciones = pd.read_csv("data/csv/rionegro_fondos.csv")
 
 dtypes = {
     'título': str,
@@ -14,7 +14,7 @@ dtypes = {
     'scriptofdescription': str
 }
 
-documentos = pd.read_csv("data/rionegro_metadata.csv", dtype=dtypes)
+documentos = pd.read_csv("data/csv/rionegro_metadata.csv", dtype=dtypes)
 
 m = Metadatos(colecciones, documentos)
 t = m.prepare_data()

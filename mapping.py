@@ -9,7 +9,7 @@ metadatos = pd.read_excel(r'F:\Neogranadina\catalogo_colectivo\proyectos_origen\
 columnas = metadatos.columns
 
 # save columns in a txt file
-with open('map/columnas.txt', 'w') as f:
+with open('mappings/columnas.txt', 'w') as f:
     cont = 1
     for item in columnas:
         f.write(f"{cont} : {item}\n")

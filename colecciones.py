@@ -188,11 +188,11 @@ class Coleccion:
 
 
 if __name__ == '__main__':
-    colecciones = pd.read_csv("data/rionegro_fondos.csv")
+    colecciones = pd.read_csv("data/csv/rionegro_fondos.csv")
     
     c = Coleccion(colecciones)
     t = c.prepare_collections()
-    t.to_csv('data/rionegro_collections.csv', index=False)
+    t.to_csv('data/csv/rionegro_collections.csv', index=False)
     # save t.columns to a file
     with open('logs/rionegro_collections_columns.txt', 'w') as f:
         for item in t.columns:
