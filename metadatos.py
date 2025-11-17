@@ -110,9 +110,9 @@ class Metadatos:
         data = data.drop(columns=['soporte', 'folio_inicial', 'folio_final'])
 
         data['fecha_inicial'] = data['fecha_inicial'].str.replace(
-            '\.', '-', regex=True)
+            '\.', '-', regex=True).str.replace(r"-(\d)$", r"-0\1", regex=True)
         data['fecha_final'] = data['fecha_final'].str.replace(
-            '\.', '-', regex=True)
+            '\.', '-', regex=True).str.replace(r"-(\d)$", r"-0\1", regex=True)
 
         # corrección manual de fechas
         data['fecha_final'] = data['fecha_final'].str.replace('178-01-21', '1798-01-21').str.replace(
@@ -122,7 +122,7 @@ class Metadatos:
 
         data['ca_objects.unitdate.date_value'] = data.apply(
             lambda x: self.get_date_range(x['fecha_inicial'], x['fecha_final']), axis=1)
-
+        
         data = data.drop(columns=['fecha_inicial', 'fecha_final'])
 
         data['ca_objects.idno'] = data['ca_collections.idno'] + '.' + \
@@ -170,7 +170,7 @@ class Metadatos:
         """
 
         def remove_date_placeholders(
-            x): return re.sub(r'-00|0000-00-00', '', x)
+            x): return re.sub(r'-00|0000-00-00|0000', '', x)
 
         fecha_inicial = remove_date_placeholders(fecha_inicial)
         fecha_final = remove_date_placeholders(fecha_final)
