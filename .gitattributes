@@ -1,0 +1,5 @@
+# Track large CSV files with Git LFS
+data/csv/rionegro_metadata.csv filter=lfs diff=lfs merge=lfs -text
+data/csv/rionegro_metadata_prepared.csv filter=lfs diff=lfs merge=lfs -text
+# Optional: Track all large CSV files (>50MB) automatically
+# *.csv filter=lfs diff=lfs merge=lfs -text
