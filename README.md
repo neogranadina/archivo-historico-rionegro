@@ -2,11 +2,38 @@
 
 Limpieza y modelado de la información para hacer la ingesta de datos en el repositorio abcng.org
 
-## Origen de los datos
+## Datos
 
-Fondos: [2022-03-31-AHR_Procesamiento_Fondos](https://docs.google.com/spreadsheets/d/1VH7CXdSf4yzWIg5nsj7qslq8R0xZdRjl/edit?usp=sharing&ouid=100264511648583728207&rtpof=true&sd=true) v. 23/12/2022
+### Código fuente
 
-Documentos: [rionegro_importar](https://docs.google.com/spreadsheets/d/10Gq7669jHl-nBtHqlWqpqUMOth0Ew8pL/edit?usp=sharing&ouid=100264511648583728207&rtpof=true&sd=true) v. 4/7/2023
+Este repositorio contiene únicamente los scripts de procesamiento y documentación.
+
+### Dataset
+
+Los archivos de datos procesados están disponibles en Zenodo:
+
+**[Dataset en Zenodo: DOI pendiente]**
+
+<!-- Reemplazar con el DOI real una vez publicado en Zenodo -->
+
+### Datos de origen
+
+Los datos originales provienen de:
+
+- Fondos: Procesamiento_Fondos v. 23/12/2022
+- Documentos: rionegro_importar v. 4/7/2023
+
+## Requisitos de datos
+
+Para ejecutar los scripts, descarga los datos del dataset en Zenodo y colócalos en el directorio `data/`:
+
+```text
+data/
+├── xlsx/
+│   ├── rionegro_fondos.xlsx
+│   └── rionegro_metadata.xlsx
+└── csv/ (se genera automáticamente)
+```
 
 ## Metodología
 

@@ -3,3 +3,11 @@ corrector.py
 corrector.log
 datenormalizer.py
 ahrwinenv
+
+# Large data files
+data/csv/rionegro_metadata.csv
+data/csv/rionegro_metadata_prepared.csv
+data/xlsx/
+
+# Generated output files
+output/
