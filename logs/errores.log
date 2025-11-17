@@ -46,3 +46,24 @@
 2023-07-18 17:53:41,458:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
 2023-07-18 17:53:41,459:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
 2023-07-18 17:53:48,450:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 12:35:40,165:metadatos:0000-06-14 en columna 'fecha_inicial' - Error: year 0 is out of range
+2023-07-20 12:35:40,212:metadatos:0000-06-14 en columna 'fecha_final' - Error: year 0 is out of range
+2023-07-20 12:35:49,370:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:12:35,564:metadatos:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:12:35,565:metadatos:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:12:43,639:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:19:17,814:metadatos:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:19:17,814:metadatos:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:19:24,773:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:19:52,102:metadatos:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:19:52,102:metadatos:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:19:58,460:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:32:03,651:metadatos:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:32:03,651:metadatos:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:32:13,161:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:41:45,292:__main__:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:41:45,292:__main__:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:41:48,473:__main__:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
+2023-07-20 13:42:40,857:metadatos:-06-14 en columna 'fecha_inicial' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:42:40,857:metadatos:-06-14 en columna 'fecha_final' - Error: invalid literal for int() with base 10: ''
+2023-07-20 13:42:47,261:metadatos:908-11-07 en columna 'fecha_final' - Error: day is out of range for month
