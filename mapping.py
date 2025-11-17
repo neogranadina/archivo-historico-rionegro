@@ -3,8 +3,12 @@
 ###########################################################################
 
 import pandas as pd
+import os
 
-metadatos = pd.read_excel(r'F:\Neogranadina\catalogo_colectivo\proyectos_origen\import\rsync_dir\rionegro_metadata_1.xlsx')
+default_path = os.path.join(os.getcwd(), 'output', 'rsync_dir', 'rionegro_metadata_nivel_carpeta_1.xlsx')
+metadata_path = os.environ.get('METADATA_FILE', default_path)
+
+metadatos = pd.read_excel(metadata_path)
 
 columnas = metadatos.columns
 

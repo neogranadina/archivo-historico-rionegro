@@ -30,12 +30,8 @@ print(f"Registros con nivel de tomo: {len(nivel_tomo)}")
 nivel_carpeta.name = "nivel_carpeta"
 nivel_tomo.name = "nivel_tomo"
 
-# path if running on Linux
-
-if sys.platform == "linux":
-    sync_dir = os.path.join("/media/jairomelo/141R0M310/Neogranadina/catalogo_colectivo/proyectos_origen/import/rsync_dir")
-elif sys.platform == "win32":
-    sync_dir = os.path.join("F:/Neogranadina/catalogo_colectivo/proyectos_origen/import/rsync_dir")
+# Configure output directory - can be overridden with environment variable
+sync_dir = os.environ.get('SYNC_DIR', os.path.join(os.getcwd(), 'output', 'rsync_dir'))
 
 os.makedirs(sync_dir, exist_ok=True)
 
