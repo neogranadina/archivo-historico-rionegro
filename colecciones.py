@@ -181,8 +181,10 @@ class Coleccion:
 
         if f_ini > f_fin:
             return f_fin + ' - ' + f_ini
-
-        return f_ini + ' - ' + f_fin
+        elif f_ini == '0000':
+            return f_fin
+        else:
+            return f_ini + ' - ' + f_fin
 
 
 if __name__ == '__main__':
