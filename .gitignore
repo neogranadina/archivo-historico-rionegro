@@ -11,3 +11,4 @@ data/xlsx/
 
 # Generated output files
 output/
+*.zip

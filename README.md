@@ -4,6 +4,8 @@ Limpieza y modelado de la información para hacer la ingesta de datos en el repo
 
 ## Datos
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17626109.svg)](https://doi.org/10.5281/zenodo.17626109)
+
 ### Código fuente
 
 Este repositorio contiene únicamente los scripts de procesamiento y documentación.
@@ -56,4 +58,3 @@ Los scripts utilizan rutas configurables que pueden personalizarse mediante vari
 2. Ejecutar `python colecciones.py` para procesar colecciones
 3. Ejecutar `python import_files.py` para generar archivos de importación
 4. Ejecutar `python mapping.py` para revisar estructura de columnas
-
